@@ -12,7 +12,7 @@ This repository will provide everything you need to master Datastructures and al
 * [Arrays](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#arrays)
 * [Linked List](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#linked-list)
 * [Hash Tables](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#hash-tables)
-* [Stacks and Queues](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#stacks-and-queues)
+* [Stacks and Queues](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#stack-and-queues)
 * [Strings](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#strings)
 * [Graphs](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#graphs)
 ## Complexity Analysis
