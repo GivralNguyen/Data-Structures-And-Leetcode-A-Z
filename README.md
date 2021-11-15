@@ -5,16 +5,16 @@ This repository will provide everything you need to master Datastructures and al
 </p>
 
 ## Table of Content
-* [Complexity Analysis]()
-* [Memory]()
-* [Big O Notation]()
-* [Logarithm]()
-* [Arrays]()
-* [Linked List]()
-* [Hash Tables]()
-* [Stacks and Queues]()
-* [Strings]()
-* [Graphs]()
+* [Complexity Analysis](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#complexity-analysis)
+* [Memory](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#memory)
+* [Big O Notation](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#big-o-notation)
+* [Logarithm](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#logarithm)
+* [Arrays](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#arrays)
+* [Linked List](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#linked_list)
+* [Hash Tables](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#hash_tables)
+* [Stacks and Queues](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#stacks_and_queues)
+* [Strings](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#strings)
+* [Graphs](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/blob/main/README.md#graphs)
 ## Complexity Analysis
 * Complexity analysis
 	* The process of determining how efficient an algorithm is. Comlexity analysis usually involves finding both the time and space complexity of an algorithm
