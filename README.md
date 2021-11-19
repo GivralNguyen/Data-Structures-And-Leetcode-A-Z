@@ -1,6 +1,6 @@
 # Data Structures And Leetcode A-Z
-This repository will provide everything you need to master Datastructures and algorithm and the most common leetcode questions.Questions are divided into three groups: [easy](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/tree/main/easy), medium and hard. 
-Solutions are written in 3 languages: C++. Python and Java 
+- This repository will provide everything you need to master Datastructures and algorithm and the most common leetcode questions.Questions are divided into three groups: [easy](https://github.com/GivralNguyen/Data-Structures-And-Leetcode-A-Z/tree/main/easy), medium and hard. 
+- Solutions are written in 3 languages: C++. Python and Java 
 <p align="center">
 <img src="https://skillsdynamix.com/wp-content/uploads/2020/06/Data-Structures-and-Algorithms.jpg">
 </p>
